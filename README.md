@@ -30,3 +30,8 @@ This Github repository provides the list of HTML5 Game platforms.
 | http://www.gamezoo.net  | 2,173,687  |
 | https://x1p.com  | 3,387,510  |
 | https://iogames.best  | 5,942,691  |
+
+
+https://docs.google.com/spreadsheets/d/1qfPAVMhfSPS14__o-85JCcMZxgHsYMX3K33W62oOzbE/edit?usp=drive_web&ouid=110291342688342715176
+
+Here is more
